@@ -28,12 +28,11 @@ This set consists of data collected from human-human dyads performing the same t
   - [Readme.txt](data/HR/Readme.txt) (1.7 KB)
   - [Koc_TUM_pHRI_data](https://www.dropbox.com/scl/fi/23hiixmwvjx2wgjg2w85h/KocTUM_HR_data.zip?rlkey=yxdlgxve129phsec7gdid0dwj&dl=0) (916MB)
 - **Human-Human (HH) Data**
-  - [Readme.txt](data/HH/README.txt) (1.57 KB)
+  - [Readme.txt](data/HH/Readme.txt) (1.57 KB)
   - [Koc_TUM_pHHI_data](data/HH/KocTUM_HH_data.zip) (1.4MB)
 
 ### Related
 
-- [Haptic Human-Human Interaction – Behaviour Recognition Dataset](https://github.com/aysekyz/HHIBehaviorDataset)
 - [Koc University RML repository](https://research.ku.edu.tr/research-infrastructure/laboratories/rml/)
 
 ### Contact
